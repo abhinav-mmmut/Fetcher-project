@@ -1,4 +1,4 @@
-# RESTful-web-service-project
+# Fetcher RESTful-web-service-project
 Developed a RESTful Web service that seamlessly support
 presenting your data in a variety ofrepresentation media types
 • Supports GET, PUSH, PUT and DELETE requests
